@@ -22,9 +22,7 @@ I'm Guilherme, a 🇧🇷 brazilian FullStack developer, looking to for new oppo
   <img align="center" alt="Gui-AWS" height="20" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" alt="Gui-NodeJs" height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Gui-Git" height="20" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/5b62d3850d659c5e4917c29d9f35525a.gif">
-</div>
+ </div>
   
   ##
  
@@ -32,5 +30,5 @@ I'm Guilherme, a 🇧🇷 brazilian FullStack developer, looking to for new oppo
   <a href="https://www.instagram.com/guicintra27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gui7lk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gui-cintra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/5b62d3850d659c5e4917c29d9f35525a.gif">
 </div>
