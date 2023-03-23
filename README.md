@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/86432794/227228594-db0f14fb-24f9-421d-8bba-1b3cf0a72f94.png)
 ## Hi, Nice to see you here!
 
-<div style="display: inline_block"><br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicintra27)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicintra27">
 </div>
 
 <div style="display: inline_block"><br>
