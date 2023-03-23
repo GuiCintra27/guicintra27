@@ -24,7 +24,7 @@ I'm Guilherme, a 🇧🇷 brazilian FullStack developer, looking to for new oppo
   <img align="center" alt="Gui-Git" height="20" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
  </div>
   
-  ### You can also find me on
+  ### Social media
  
 <div> 
   <a href="https://www.instagram.com/guicintra27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
