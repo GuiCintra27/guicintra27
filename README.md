@@ -1,7 +1,7 @@
 ## Hi, Nice to see you here!
 
 Welcome! 
-I'm Guilherme, a 🇧🇷 brazilian FullStack developer, looking to for new opportunities.
+I'm Guilherme, a 🇧🇷 brazilian FullStack developer, looking for new opportunities.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicintra27&show_icons=true&theme=dracula">
