@@ -29,8 +29,10 @@
   <img align="center" alt="Gui-MongoDB" height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Gui-Redis" height="20" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
   <img align="center" alt="Gui-NodeJs" height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Gui-Nest" height="20" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img align="center" alt="Gui-ExpressJs" height="20" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="Gui-Git" height="20" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Gui-Docker" height="20" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
  </div>
  
  ### Tools
@@ -45,8 +47,8 @@
  
  ### Other Knowledge
  <div style="display: inline_block">
+  <img align="center" alt="Gui-Crystal" height="20" src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white">
   <img align="center" alt="Gui-Jest" height="20" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-  <img align="center" alt="Gui-Docker" height="20" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="Gui-AWS" height="20" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" alt="Gui-GitHub-Actions" height="20" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
  </div>
