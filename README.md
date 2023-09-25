@@ -16,7 +16,7 @@
 
 ### Last Project
 
-https://github.com/GuiCintra27/Track-it
+Discord: https://github.com/GuiCintra27/Track-it
 
 ### Main Skills
 
