@@ -15,7 +15,7 @@
 
 ### Last Project
 
-Link: https://github.com/GuiCintra27/tech-blog
+Link: [Go Api - Gopportunities](https://github.com/GuiCintra27/go/tree/main/projects/gopportunities)
 
 ### Main Skills
 
