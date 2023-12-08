@@ -62,7 +62,7 @@ Link: [Go Api - Gopportunities](https://github.com/GuiCintra27/go/tree/main/proj
   <img align="center" alt="Gui-Crystal" height="25" src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white">
   <img align="center" alt="Gui-AWS" height="25" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" alt="Gui-GitHub-Actions" height="25" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img align="center" alt="Gui-GitHub-Actions" height="25" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" alt="Gui-SQLite" height="25" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
  </div>
   
   ### Social media
