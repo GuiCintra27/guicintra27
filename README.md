@@ -24,6 +24,7 @@ Link: [Go Api - Gopportunities](https://github.com/GuiCintra27/go/tree/main/proj
   <img align="center" alt="Gui-CSS" height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Gui-Js" height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img align="center" alt="Gui-Ts" height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Gui-Go" height="25" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img align="center" alt="Gui-React" height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Gui-Next" height="25" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img align="center" alt="Gui-Redux" height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
@@ -40,6 +41,8 @@ Link: [Go Api - Gopportunities](https://github.com/GuiCintra27/go/tree/main/proj
   <img align="center" alt="Gui-ExpressJs" height="25" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="Gui-Jest" height="25" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   <img align="center" alt="Gui-React-Testing-Library" height="30" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">  
+  <img align="center" alt="Gui-Docker" height="25" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Gui-Swagger" height="25" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
   <img align="center" alt="Gui-Git" height="25" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
  </div>
  
@@ -55,11 +58,11 @@ Link: [Go Api - Gopportunities](https://github.com/GuiCintra27/go/tree/main/proj
  
  ### Other Knowledge
  <div style="display: inline_block">
-  <img align="center" alt="Gui-Docker" height="25" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="Gui-Kubernetes" height="25" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
   <img align="center" alt="Gui-Crystal" height="25" src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white">
   <img align="center" alt="Gui-AWS" height="25" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" alt="Gui-GitHub-Actions" height="25" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img align="center" alt="Gui-GitHub-Actions" height="25" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
  </div>
   
   ### Social media
